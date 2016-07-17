@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # A script to download all Digital Paint Paintball 2 maps, currently available on the server.
 # It's a quick and dirty tool and you will have to do some more work on your own.
 
